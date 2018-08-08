@@ -1,0 +1,2 @@
+aritmatika, berisi file aritmatika.php untuk proses aritmatika index.php sebagai halaman utama, style.css tampilan, dan suara.php  untuk merubah text ke suara
+sound, berisikan file terbilang suara hasil aritmatika
